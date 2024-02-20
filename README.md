@@ -14,22 +14,39 @@ This project demonstrates the development of an AI-powered trading bot using Pyt
 - Real-time Trading ⏰: Executes trades in real-time using live market data.
 - Monitoring and Optimization 📊: Monitors bot performance and optimizes strategies.
 
-## Outcomes
-![Trading Bot]()
+# Outcomes
+## Downloading Data
+![Trading Bot](images/download)
 -----------------
-![Trading Bot]()
+## HTML for Tearsheet
+![Trading Bot](images/html)
 -----------------
-![Trading Bot]()
+## Data for Tearsheet
+![Trading Bot](images/data)
 -----------------
-![Trading Bot]()
+## logs 
+![Trading Bot](images/logs)
 -----------------
-![Trading Bot]()
+## Strategy
+![Trading Bot](images/strategy)
 -----------------
-![Trading Bot]()
+## MLTrader compared to SPY
+![Trading Bot](images/spy)
 -----------------
-![Trading Bot]()
+![Trading Bot](images/img1)
 -----------------
-![Trading Bot]()
+![Trading Bot](images/img2)
+-----------------
+![Trading Bot](images/img3)
+-----------------
+![Trading Bot](images/img4)
+-----------------
+![Trading Bot](images/img5)
+-----------------
+![Trading Bot](images/img6)
+-----------------
+## Worst 10 Drawdowns
+![Trading Bot](images/img7)
 
 ## Requirements
 - Python 3.10
@@ -38,7 +55,22 @@ This project demonstrates the development of an AI-powered trading bot using Pyt
 - Transformers
 - Lumibot
 
+## Docs
+- [python](https://docs.python.org/3/)
+- [api](https://alpaca.markets/)
+- [pytorch](https://pytorch.org/docs/stable/index.html)
+- [huggingface](https://huggingface.co/)
+- [ai](https://cloud.google.com/document-ai)
+- [bot](https://docs.python-telegram-bot.org/en/v20.8/)
+- [stocks](https://finance.yahoo.com/)
+
 ## Credits
 - [Alpaca Markets](https://alpaca.markets/)
 - [PyTorch](https://pytorch.org/)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
+
+# Connect ⤵⤵⤵⤵
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rraghulrajkumar/)
+
+
+
