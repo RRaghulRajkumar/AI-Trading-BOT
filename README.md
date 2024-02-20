@@ -63,6 +63,7 @@ This project demonstrates the development of an AI-powered trading bot using Pyt
 - [ai](https://cloud.google.com/document-ai)
 - [bot](https://docs.python-telegram-bot.org/en/v20.8/)
 - [stocks](https://finance.yahoo.com/)
+- [Lumibot](https://lumibot.lumiwealth.com/)
 
 ## Credits
 - [Alpaca Markets](https://alpaca.markets/)
