@@ -71,7 +71,7 @@ Built a trader bot which looks at sentiment of live news events and trades appro
 - [PyTorch](https://pytorch.org/)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 
-# Connect ⤵⤵⤵⤵
+# Connect 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rraghulrajkumar/)
 
 
