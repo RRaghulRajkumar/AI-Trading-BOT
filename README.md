@@ -2,6 +2,7 @@
 
 ## Overview
 This project demonstrates the development of an AI-powered trading bot using Python. The bot utilizes machine learning techniques for sentiment analysis and technical analysis to make trading decisions automatically.
+Build a trader bot which looks at sentiment of live news events and trades appropriately 🦾.
 
 ## Features
 - Data Collection 📊: Fetches historical stock price data and relevant news articles using Alpaca API.
