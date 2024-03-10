@@ -49,6 +49,10 @@ Built a trader bot which looks at sentiment of live news events and trades appro
 ## Worst 10 Drawdowns
 ![Trading Bot](images/img7)
 
+## News From API
+![Trading Bot](images/news.png)
+
+
 ## Requirements
 - Python 3.10
 - Alpaca Trade API
